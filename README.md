@@ -16,10 +16,6 @@ Welcome to **TrendCart**, a simple and beginner-friendly e-commerce website proj
 - CSS
 - JavaScript
 
-## 📸 Screenshots
-
-> *(Add screenshots here if you have them)*  
-> Example: Home Page, Product Page, Cart Page
 
 ## 🚀 How to Run
 
